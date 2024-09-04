@@ -12,12 +12,6 @@ Sou um entusiasta de tecnologia, cursando **Tecnologia em Redes de Computadores*
 - **Tools:** Git, GitHub, IntelliJ IDEA, MySQL, Oracle
 - **Concepts:** OOP, ITIL, Database Management, Networking
 
-### 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyxx7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyxx7&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ### 📫 Contact
 - **Email:** devjohn.araujo@gmail.comn
 - **LinkedIn:** [Johnny Araujo](https://www.linkedin.com/in//johnny-araujo-71508b312)
