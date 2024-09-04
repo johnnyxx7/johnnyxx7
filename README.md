@@ -1,7 +1,7 @@
 # 👋 Hello, World!
 
 ### 🚀 About Me
-Sou um entusiasta de tecnologia, cursando **Tecnologia em Redes de Computadores** e **Análise e Desenvolvimento de Sistemas**. Tenho paixão por aprender e compartilhar conhecimentos sobre desenvolvimento de software e redes de computadores.
+Sou um apaixonado em tecnologia, cursando **Análise e Desenvolvimento de Sistemas**. Tenho paixão por aprender e compartilhar conhecimentos sobre desenvolvimento de software.
 
 - 🌱 Atualmente, estou aprendendo **Java** com foco em **Programação Orientada a Objetos** e frameworks **Springs**.
 - 📚 Já concluí cursos em **Fundamentos de TI**, **Banco de Dados**, **Gestão Estratégica de TI - ITIL**, e **Java**.
