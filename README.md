@@ -12,6 +12,8 @@ Sou um apaixonado em tecnologia, cursando **Análise e Desenvolvimento de Sistem
 - **Tools:** Git, GitHub, IntelliJ IDEA, MySQL, Oracle, Spring 
 - **Concepts:** OOP, ITIL, Database Management, Networking
 
+[RobloxScreenShot20240816_234613085](https://github.com/user-attachments/assets/e1f482c7-23b5-43c5-8699-875dd5c42401)
+
 ### 📫 Contact
 - **Email:** devjohn.araujo@gmail.comn
 - **LinkedIn:** [Johnny Araujo](https://www.linkedin.com/in//johnny-araujo-71508b312)
@@ -19,6 +21,7 @@ Sou um apaixonado em tecnologia, cursando **Análise e Desenvolvimento de Sistem
 ---
 
 <!---
-johnnyxx7/johnnyxx7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+johnnyxx7/johnnyxx7 is a ✨ special ✨ repository because its `README.md` (this file) appears on you![RobloxScreenShot20240816_234613085](https://github.com/user-attachments/assets/e1f482c7-23b5-43c5-8699-875dd5c42401)
+r GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
