@@ -12,7 +12,6 @@ Sou um apaixonado em tecnologia, cursando **Análise e Desenvolvimento de Sistem
 - **Tools:** Git, GitHub, IntelliJ IDEA, MySQL, Oracle, Spring 
 - **Concepts:** OOP, ITIL, Database Management, Networking
 
-[RobloxScreenShot20240816_234613085](https://github.com/user-attachments/assets/e1f482c7-23b5-43c5-8699-875dd5c42401)
 
 ### 📫 Contact
 - **Email:** devjohn.araujo@gmail.comn
