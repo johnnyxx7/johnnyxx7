@@ -10,7 +10,7 @@ Sou um apaixonado em tecnologia, cursando **Análise e Desenvolvimento de Sistem
 ### 🛠️ Technologies & Tools
 - **Languages:** Java, SQL, Python, JavaScript
 - **Tools:** Git, GitHub, IntelliJ IDEA, MySQL, Oracle, Spring 
-- **Concepts:** OOP, ITIL, Database Management, Networking
+- **Concepts:** POO, ITIL, Database Management, Networking
 
 
 ### 📫 Contact
