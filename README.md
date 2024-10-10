@@ -10,7 +10,7 @@ Sou um apaixonado em tecnologia, cursando **Análise e Desenvolvimento de Sistem
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Java, SQL, Python, JavaScript
 - **Ferramentas:** Git, GitHub, IntelliJ IDEA, MySQL, Oracle, Spring 
-- **Conceitos:** POO, ITIL, Database Management, Networking
+- **Conceitos:** POO, ITIL, Administração de Banco de Dados
 
 
 ### 📫 Contato
