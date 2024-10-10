@@ -1,19 +1,19 @@
 # 👋 Hello, World!
 
-### 🚀 About Me
+### 🚀 Sobre mim
 Sou um apaixonado em tecnologia, cursando **Análise e Desenvolvimento de Sistemas**. Tenho paixão por aprender e compartilhar conhecimentos sobre desenvolvimento de software.
 
 - 🌱 Atualmente, estou aprendendo **Java** com foco em **Programação Orientada a Objetos** e frameworks **Springs**.
 - 📚 Já concluí cursos em **Fundamentos de TI**, **Banco de Dados**, **Gestão Estratégica de TI - ITIL**, e **Java**.
 - 🎯 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
-### 🛠️ Technologies & Tools
-- **Languages:** Java, SQL, Python, JavaScript
-- **Tools:** Git, GitHub, IntelliJ IDEA, MySQL, Oracle, Spring 
-- **Concepts:** POO, ITIL, Database Management, Networking
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java, SQL, Python, JavaScript
+- **Ferramentas:** Git, GitHub, IntelliJ IDEA, MySQL, Oracle, Spring 
+- **Conceitos:** POO, ITIL, Database Management, Networking
 
 
-### 📫 Contact
+### 📫 Contato
 - **Email:** devjohn.araujo@gmail.comn
 - **LinkedIn:** [Johnny Araujo](https://www.linkedin.com/in//johnny-araujo-71508b312)
 
