@@ -14,7 +14,7 @@ Sou um apaixonado em tecnologia, cursando **Análise e Desenvolvimento de Sistem
 
 
 ### 📫 Contato
-- **Email:** devjohn.araujo@gmail.comn
+- **Email:** devjohn.araujo@gmail.com
 - **LinkedIn:** [Johnny Araujo](https://www.linkedin.com/in//johnny-araujo-71508b312)
 
 ---
